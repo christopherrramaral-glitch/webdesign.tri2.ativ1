@@ -2,12 +2,11 @@
     box-sizing: border-box;
 }
 
-body.login {
+body.form {
     display: grid;
     place-items: center;
     height: 100vh;
     margin: 0;
-
 
     form {
         border: 1px solid;
